@@ -1,5 +1,6 @@
 # NTU_ADL_2023_Fall
-- This repository contains the homework assignment and final project implementations in NTU 2023 Fall Applied Deep Learning
+- This repository contains the homework assignment and final project implementations in NTU 2023 Fall Applied Deep Learning.
+- The corresponding README file of each assignment is placed in the assignment folder.
 ## HW1
 ### Chinese Extractive Question Answering (QA)
 - Paragraph Selection: Determine which paragraph is relevant.
