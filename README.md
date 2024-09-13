@@ -18,7 +18,8 @@
 * * *
 ## HW3
 ### Instruction Tuning (Classical Chinese)
-- QLoRA fine-tuning with Taiwan-LLaMa
+- Fine-tune Taiwan-LLaMa
+- Utilize QLoRA technique
 * * *
 ## Final Project
 ### Books Wrapped - Explore, understand, and grow with your reading tastes
