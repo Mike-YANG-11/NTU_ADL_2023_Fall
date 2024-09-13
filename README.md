@@ -6,9 +6,9 @@
 ### Chinese Extractive Question Answering (QA)
 - Fine-tune **bert-base-chinese** model
 1. Paragraph Selection: Determine which paragraph is relevant
-  - Implemented in **Multiple Choice** framework
+  -- Implemented in **Multiple Choice** framework
 2. Span selection: Determine the start and end position of the answer span
-  - Implemented in **Question Answering** framework
+  -- Implemented in **Question Answering** framework
 
 ## HW2
 ### Chinese News Summarization (Title Generation)
