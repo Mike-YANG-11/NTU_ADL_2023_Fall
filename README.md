@@ -21,7 +21,7 @@
 - Fine-tune Taiwan-LLaMa
 - Utilize QLoRA technique
 * * *
-## Final Project
+## Final Project (Team)
 ### Books Wrapped - Explore, understand, and grow with your reading tastes
 - Abstract
   ```
