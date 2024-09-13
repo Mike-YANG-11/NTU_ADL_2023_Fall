@@ -4,5 +4,7 @@
 ## HW1
 ### Chinese Extractive Question Answering (QA)
 - Paragraph Selection: Determine which paragraph is relevant.
+  - Implemented in "Multiple Choice" framework.
 - Span selection: Determine the start and end position of the answer span.
+  - Implemented in "Question Answering" framework.
 
