@@ -4,6 +4,7 @@
 
 ## HW1
 ### Chinese Extractive Question Answering (QA)
+- Fine-tune bert-base-chinese model
 - Paragraph Selection: Determine which paragraph is relevant
   - Implemented in "Multiple Choice" framework
 - Span selection: Determine the start and end position of the answer span
@@ -11,7 +12,7 @@
 
 ## HW2
 ### Chinese News Summarization (Title Generation)
-- Fine-tune a pre-trained small multilingual T5 model
+- Fine-tune pre-trained small multilingual T5 model
 - Input: news content
 - Output: news title
 
