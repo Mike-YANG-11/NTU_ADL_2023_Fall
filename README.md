@@ -11,7 +11,7 @@
 
 ## HW2
 ### Chinese News Summarization (Title Generation)
+- Fine-tune a pre-trained small multilingual T5 model
 - Input: news content
 - Output: news title
-  - Fine-tune a pre-trained small multilingual T5 model
 
