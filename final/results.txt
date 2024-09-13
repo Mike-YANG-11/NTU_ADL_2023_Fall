@@ -1,0 +1,72 @@
+# book_title = "Thinking, Fast and Slow"
+# {
+#     "corporate strategies": 0.4777,
+#     "cognitive biases": 0.2941,
+#     "stock market": 0.1189,
+#     "economics": 0.1093,
+# }
+
+# book_title = "The Midnight Library"
+# {
+#     "midnight library": 0.8502,
+#     "glaciologist": 0.1498,
+# }
+
+# book_title = "The Courage to be Disliked"
+# {
+#     "nineteenthcentury psychology": 0.4453,
+#     "alfred adler": 0.3171,
+#     "philosopher": 0.1604,
+#     "selfcare": 0.0359,
+#     "lasting happiness": 0.0285,
+#     "happiness": 0.0128,
+# }
+
+# book_title = "Pride and Prejudice"
+# {
+#     "social commentary": 0.5147,
+#     "societal expectations": 0.3759,
+#     "pride": 0.0374,
+#     "humor": 0.0255,
+#     "romance": 0.0209,
+#     "drama": 0.0201,
+#     "societal constraints": 0.0055,
+# }
+
+# book_title = "The Hobbit"
+# {
+#     "middleearth": 0.3754,
+#     "magic ring": 0.2436,
+#     "lord of the rings": 0.2165,
+#     "fairy tale": 0.1159,
+#     "dwarves": 0.0376,
+#     "gandalf": 0.0032,
+#     "frightening creature": 0.0032,
+#     "adventurous tale": 0.0026,
+#     "wizard": 0.002,
+# }
+
+# book_title = "Robinson Crusoe"
+# {
+#     "remote tropical island": 0.6571,
+#     "cannibals": 0.2377,
+#     "trinidad": 0.0814,
+#     "english": 0.0238,
+# }
+
+# book_title = "The Hunger Games"
+# {
+#     "hunger games": 0.9871,
+#     "capitol": 0.0129,
+# }
+
+# book_title = "Dune"
+# {
+#     "desert planet arrakis": 0.3481,
+#     "science fiction novels": 0.2619,
+#     "science fiction": 0.1433,
+#     "dune": 0.0992,
+#     "mysticism": 0.0663,
+#     "environmentalism": 0.0408,
+#     "politics": 0.0405,
+# }
