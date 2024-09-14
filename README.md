@@ -15,7 +15,7 @@
   a unique perspective on how their reading choices reflect and shape their identity.
   ```
 - System Diagram
-  ![下載](https://github.com/user-attachments/assets/08d980ed-7abe-42f9-b26b-088b96928130)
+  ![system_diagram](https://github.com/user-attachments/assets/3edd3910-7f13-423a-ac90-1776f798e9a1)
 - Link to the project page: <https://github.com/TzuMinYang-NTU-lecture-homework/1121_Applied-Deep-Learning/tree/main/final%20project>
 - Details: <https://github.com/Mike-YANG-11/NTU_ADL_2023_Fall/blob/main/final/adl_final.pdf>
 * * *
